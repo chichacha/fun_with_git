@@ -1,1 +1,4 @@
-# fun_with_git
+# Fun with Git! 
+author: Chisato
+
+type something and commit!
