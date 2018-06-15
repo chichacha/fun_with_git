@@ -1,6 +1,7 @@
-# This will be an R script. hello! let's break it. 
+# This will be an R script. hello! let's fix it.
 
-print(mtcars)
+
+print(iris)
 plot(mtcars)
 
 ## change and look the change from terminal with git status
